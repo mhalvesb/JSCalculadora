@@ -4,7 +4,7 @@
 Este projeto consiste em uma calculadora simples implementada utilizando as tecnologias web HTML, CSS e Javascript. A calculadora suporta operações aritméticas básicas, como adição, subtração, multiplicação e divisão.
 
 ## Como utilizar
-Para utilizar a calculadora, basta abrir o arquivo index.html em um navegador web. A interface da calculadora será exibida, permitindo que o usuário insira os números e realize as operações desejadas.
+Para utilizar a calculadora, basta abrir o arquivo index.html em um navegador web. A interface da calculadora será exibida, permitindo que o usuário insira os números e realize as operações desejadas. Ou pode tentar diretamente por este site https://mhalvesb.github.io/JSCalculadora/
 
 ## Funcionalidades
 A calculadora suporta as seguintes operações:
@@ -25,7 +25,4 @@ Este projeto é aberto a contribuições da comunidade. Caso deseje contribuir, 
 
 ## Autor
 Este projeto foi desenvolvido por [Matheus Alves].
-
-## Tente aqui!!
-https://mhalvesb.github.io/JSCalculadora/
 
